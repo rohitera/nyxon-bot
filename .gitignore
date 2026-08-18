@@ -1,0 +1,7 @@
+tokens.txt
+admin_id.txt
+proxies.txt
+.env
+__pycache__/
+*.pyc
+group_images/
