@@ -59,7 +59,7 @@ def _load_tokens():
     if env_tokens:
         candidates.extend(env_tokens.replace(",", "\n").splitlines())
 
-    for index in range(1, 15):
+    for index in range(1, 16):
         candidates.append(os.getenv(f"BOT_TOKEN_{index}", ""))
 
     candidates.append(os.getenv("TELEGRAM_BOT_TOKEN", ""))
