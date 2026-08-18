@@ -1,0 +1,22 @@
+# Railway Variables template — never commit real values here.
+# Add these in Railway's private Variables tab.
+
+TELEGRAM_ADMIN_ID=
+BOT_TOKEN_1=
+BOT_TOKEN_2=
+BOT_TOKEN_3=
+BOT_TOKEN_4=
+BOT_TOKEN_5=
+BOT_TOKEN_6=
+BOT_TOKEN_7=
+BOT_TOKEN_8=
+BOT_TOKEN_9=
+BOT_TOKEN_10=
+BOT_TOKEN_11=
+BOT_TOKEN_12=
+BOT_TOKEN_13=
+BOT_TOKEN_14=
+BOT_TOKEN_15=
+
+# Alternative: use one variable with comma- or newline-separated tokens.
+# BOT_TOKENS=
